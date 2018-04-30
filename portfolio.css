@@ -56,8 +56,16 @@ h1 {
 }
 
 .me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    padding-top: 15px;
+    padding-bottom: 15px;
 
-    padding-left: 45px;
+}
+.he{
+    padding-left: 45px;   
 }
 p {
     padding: 20px;
