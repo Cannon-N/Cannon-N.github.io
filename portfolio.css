@@ -56,7 +56,8 @@ h1 {
 }
 
 .me {
-    padding-left: 25px;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 p {
